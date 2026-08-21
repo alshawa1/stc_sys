@@ -1,0 +1,8 @@
+💰 مرتبطة بالراتب والدخل: True
+🤝 وعود بالسداد وتأكيدات: False
+📅 مرتبطة بتاريخ أو وقت محدد: False
+💳 مرتبطة بتحويل أو إيداع أو دفعات: True
+has_primary_status: True
+has_fully_paid: False
+has_disqualify: False
+has_any_positive: True
